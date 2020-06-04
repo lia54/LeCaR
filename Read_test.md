@@ -1,6 +1,5 @@
 
 Citation:
-
     @inproceedings {216890,
     author = {Giuseppe Vietri and Liana V. Rodriguez and Wendy A. Martinez and Steven Lyons and Jason Liu and Raju Rangaswami and Ming Zhao and Giri Narasimhan},
     title = {Driving Cache Replacement with ML-based LeCaR},

@@ -16,3 +16,7 @@ called config.txt
 type in the console
 
 python run.py config.txt
+
+```python3 run.py 4 lru data.txt```\   
+```python3 run.py 4 lfu data.txt```\ 
+```python3 run.py 4 lfu data.txt```
